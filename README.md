@@ -1,4 +1,4 @@
-# Tugas Latihan dari Peremuan Online
+# Tugas Latihan OAK dari Peremuan Online
 # 1. Jelaskan struktur antar hubungan dan beri contohnya.
 Jawaban :
 
