@@ -1,4 +1,8 @@
 # Tugas Latihan OAK dari Peremuan Online
+## MUHAMMAD REIKI SAPUTRA
+## NIM : 09011382429139
+## SKU2A
+
 # 1. Jelaskan struktur antar hubungan dan beri contohnya.
 Jawaban :
 
